@@ -9,9 +9,9 @@ function Banner() {
                 objectFit='cover'
             />
             <div className='absolute top-1/2 w-full text-center'>
-                <p className='text-gray-50 text-sm sm:text-lg'>Traveling? Find an Airbnb</p>
+                <p className='text-gray-50 text-sm mt-4 sm:text-lg'>Traveling? Find an Airbnb</p>
 
-                <button className='text-red-400 bg-white px-10 py-4 shadow-md rounded-full font-bold my-3 hover:shadow-xl active:scale-90 transition duration-150'>Book Here</button>
+                <button className='text-red-400 bg-white mt-6 px-10 py-4 shadow-md rounded-full font-bold my-3 hover:shadow-xl active:scale-90 transition duration-150'>Book Here</button>
             </div>
         </div>
     )
