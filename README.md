@@ -1,6 +1,6 @@
 # Air-Next.js
 
-## Deployed:
+## Deployed: https://air-nextjs.vercel.app/
 
 ### Description: (Coming Soon)
 
