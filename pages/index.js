@@ -3,6 +3,7 @@ import Header from '../components/Header'
 import Banner from '../components/Banner'
 import SmallCard from '../components/SmallCard';
 import MediumCard from '../components/MediumCard';
+import LargeCard from '../components/LargeCard';
 
 export default function Home({exploreData, cardsData}) {
   return (
@@ -44,6 +45,13 @@ export default function Home({exploreData, cardsData}) {
             ))}
           </div>
         </section>
+
+        <LargeCard 
+          img='https://images.unsplash.com/photo-1504643039591-52948e3ddb47?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTQ2fHxjYWJpbnxlbnwwfDB8MHx8&auto=format&fit=crop&w=800&q=60'
+          title='The Greatest Outdoors'
+          description='Wishlists curated by Air'
+          buttonText='Get Inspired'
+        />
       </main>
 
     </div>
