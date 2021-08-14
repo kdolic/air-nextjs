@@ -13,7 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2E3440?style=for-the-badge&logo=tailwind%20css)
-![NextJS](https://img.shields.io/badge/NextJS-2E3440?style=for-the-badge&logo=nextjs)
+![NextJS](https://img.shields.io/badge/NextJS-2E3440?style=for-the-badge&logo=next.js)
+![Mapbox](https://img.shields.io/badge/mapbox-2E3440?style=for-the-badge&logo=mapbox)
 
 ![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
 ![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
