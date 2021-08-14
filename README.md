@@ -4,6 +4,8 @@
 
 ### Description: (Coming Soon)
 
+This is an Airbnb clone utilizing React, NextJS, TailwindCSS, and Mapbox. 
+
 ### Demo: (Coming Soon)
 
 ### Images: (Coming Soon)
