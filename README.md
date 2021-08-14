@@ -10,6 +10,17 @@
 
 ### Languages and Tools:
 
+![JavaScript](https://img.shields.io/badge/JavaScript-2E3440?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-2E3440?style=for-the-badge&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-2E3440?style=for-the-badge&logo=tailwind%20css)
+![NextJS](https://img.shields.io/badge/NextJS-2E3440?style=for-the-badge&logo=nextjs)
+
+![git](https://img.shields.io/badge/git-2E3440?style=for-the-badge&logo=git)
+![Github](https://img.shields.io/badge/GitHub-2E3440?style=for-the-badge&logo=github)
+![npm](https://img.shields.io/badge/npm-2E3440?style=for-the-badge&logo=npm)
+![VS Code](https://img.shields.io/badge/VS%20Code-2E3440?style=for-the-badge&logo=visual%20studio)
+![Vercel](https://img.shields.io/badge/Vercel-2E3440?style=for-the-badge&logo=vercel)
+
 <br />
 
 ## Next.js + Tailwind CSS Example
