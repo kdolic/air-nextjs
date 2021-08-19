@@ -2,13 +2,17 @@
 
 ## Deployed: https://air-nextjs.vercel.app/
 
-### Description: (Coming Soon)
+### Description:
 
 This is an Airbnb clone utilizing React, NextJS, TailwindCSS, and Mapbox. 
 
 ### Demo: (Coming Soon)
 
-### Images: (Coming Soon)
+### Images: 
+
+#### Home:
+<img width="300" height="300" alt="air" src="https://user-images.githubusercontent.com/36944457/130156499-9858b44f-38cf-4a6f-94fa-3919bef86bf8.png">
+
 
 ### Languages and Tools:
 
