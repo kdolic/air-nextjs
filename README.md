@@ -31,7 +31,11 @@ This is an Airbnb clone utilizing React, NextJS, TailwindCSS, and Mapbox.
 
 
 #### Footer component:
-<img width="500" height="200" alt="Screen Shot 2021-08-14 at 11 55 13 AM" src="https://user-images.githubusercontent.com/36944457/130156995-e9f4137a-5f9d-492c-9412-6d100ff8d9b1.png">
+<img width="500" height="125" alt="Screen Shot 2021-08-14 at 11 55 13 AM" src="https://user-images.githubusercontent.com/36944457/130156995-e9f4137a-5f9d-492c-9412-6d100ff8d9b1.png">
+
+#### InfoCard component:
+<img width="500" height="250" alt="Screen Shot 2021-08-19 at 6 35 49 PM" src="https://user-images.githubusercontent.com/36944457/130157354-947c522b-5a72-4da3-9615-41d291a2806e.png">
+
 
 <hr />
 <br />
