@@ -14,24 +14,24 @@ This is an Airbnb clone utilizing React, NextJS, TailwindCSS, and Mapbox.
 <img width="500" height="300" alt="air" src="https://user-images.githubusercontent.com/36944457/130156499-9858b44f-38cf-4a6f-94fa-3919bef86bf8.png">
 
 #### Header component:
-<img width="500" height="100" alt="Screen Shot 2021-08-14 at 11 54 00 AM" src="https://user-images.githubusercontent.com/36944457/130156720-38317eca-525f-482a-ae0a-65a27761aba5.png">
+<img width="500" height="50" alt="Screen Shot 2021-08-14 at 11 54 00 AM" src="https://user-images.githubusercontent.com/36944457/130156720-38317eca-525f-482a-ae0a-65a27761aba5.png">
 
 #### Banner component:
-<img width="500" height="100" alt="Screen Shot 2021-08-14 at 11 54 13 AM" src="https://user-images.githubusercontent.com/36944457/130156790-05d0a825-dac5-4926-bd9f-1612ec9fb07a.png">
+<img width="500" height="250" alt="Screen Shot 2021-08-14 at 11 54 13 AM" src="https://user-images.githubusercontent.com/36944457/130156790-05d0a825-dac5-4926-bd9f-1612ec9fb07a.png">
 
 #### SmallCard component:
 <img width="500" height="100" alt="Screen Shot 2021-08-14 at 11 54 26 AM" src="https://user-images.githubusercontent.com/36944457/130156941-fa9c992e-1766-4a5b-ab38-9821a1c82d33.png">
 
 #### MediumCard component:
-<img width="500" height="100" alt="Screen Shot 2021-08-14 at 11 54 48 AM" src="https://user-images.githubusercontent.com/36944457/130156950-11d7fc71-0d2a-423c-926f-9a8f3c2c3191.png">
+<img width="500" height="250" alt="Screen Shot 2021-08-14 at 11 54 48 AM" src="https://user-images.githubusercontent.com/36944457/130156950-11d7fc71-0d2a-423c-926f-9a8f3c2c3191.png">
 
 
 #### LargeCard component:
-<img width="500" height="100" alt="Screen Shot 2021-08-14 at 11 55 00 AM" src="https://user-images.githubusercontent.com/36944457/130156979-90966a41-cd1c-40a9-b03a-c421841915ef.png">
+<img width="500" height="250" alt="Screen Shot 2021-08-14 at 11 55 00 AM" src="https://user-images.githubusercontent.com/36944457/130156979-90966a41-cd1c-40a9-b03a-c421841915ef.png">
 
 
 #### Footer component:
-<img width="500" height="100" alt="Screen Shot 2021-08-14 at 11 55 13 AM" src="https://user-images.githubusercontent.com/36944457/130156995-e9f4137a-5f9d-492c-9412-6d100ff8d9b1.png">
+<img width="500" height="200" alt="Screen Shot 2021-08-14 at 11 55 13 AM" src="https://user-images.githubusercontent.com/36944457/130156995-e9f4137a-5f9d-492c-9412-6d100ff8d9b1.png">
 
 <hr />
 <br />
